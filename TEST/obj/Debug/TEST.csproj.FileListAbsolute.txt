@@ -1,0 +1,16 @@
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\TEST.exe.config
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\TEST.exe
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\TEST.pdb
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\BLL.dll
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\BLL.pdb
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.Form1.resources
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.exe
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.pdb
+E:\LuuDuLieuSinhVien\TEST\TEST\obj\Debug\TEST.frm_Main.resources
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\DAL.dll
+E:\LuuDuLieuSinhVien\TEST\TEST\bin\Debug\DAL.pdb

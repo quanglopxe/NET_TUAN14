@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\TEST\DAL\bin\Debug\DAL.dll
+E:\LuuDuLieuSinhVien\TEST\DAL\bin\Debug\DAL.pdb
+E:\LuuDuLieuSinhVien\TEST\DAL\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\TEST\DAL\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\TEST\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TEST\DAL\obj\Debug\DAL.dll
+E:\LuuDuLieuSinhVien\TEST\DAL\obj\Debug\DAL.pdb

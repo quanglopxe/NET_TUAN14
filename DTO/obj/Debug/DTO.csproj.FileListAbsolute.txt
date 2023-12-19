@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\TEST\DTO\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\TEST\DTO\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\TEST\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TEST\DTO\obj\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\TEST\DTO\obj\Debug\DTO.pdb
